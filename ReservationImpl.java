@@ -3,7 +3,7 @@ package entity;
 import java.math.BigDecimal;
 import org.joda.time.DateTime;
 
-public class ReservationImpl implements Reservaton, Reservation {
+public class ReservationImpl implements Reservation {
 	private int id;
 	private String email;
 	private Vehicle rentedVehicle;
