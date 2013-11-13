@@ -1,7 +1,6 @@
 package entity;
 
 import java.math.BigDecimal;
-
 import org.joda.time.DateTime;
 
 public interface Reservation {
